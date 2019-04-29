@@ -56,3 +56,4 @@ See [HACKING.md](https://github.com/Eugeny/terminus/blob/master/HACKING.md) and 
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FEugeny%2Fterminus.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FEugeny%2Fterminus?ref=badge_large)
+
